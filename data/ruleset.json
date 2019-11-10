@@ -1,0 +1,32 @@
+{
+  "tablename": "customer",
+  "columns": [
+    {
+      "columnname": "userid",
+      "rules": {
+        "datatype": "varchar(255)",
+        "ismandatory": true
+      }
+    },
+    {
+      "columnname": "useremailaddress",
+      "rules": {
+        "datatype": "varchar(255)"
+      }
+    },
+    {
+      "columnname": "totalwishlistitems",
+      "rules": {
+        "datatype": "integer",
+        "ismandatory": true
+      }
+    },
+    {
+      "columnname": "transtotalrefunded",
+      "rules": {
+        "datatype": "decimal(22,4)"
+      }
+    }
+  ],
+  "primarykey": "userid"
+}

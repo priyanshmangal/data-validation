@@ -1,0 +1,7 @@
+userid,useremailaddress,totalwishlistitems,transtotalrefunded,errordescription
+"",c@gmail.com,5,78.98,primary key validation fail / missing mandatory value for userid / userid is not of type varchar(255)
+5,ra@peak.ai,"",78654467383689.876,missing mandatory value for totalwishlistitems / totalwishlistitems is not of type Integer Number
+4,null,344567897987,78654467383689.876,totalwishlistitems is not of type Integer Number
+13,cert@peak.ai,"",7809E356E.98,missing mandatory value for totalwishlistitems / totalwishlistitems is not of type Integer Number / transtotalrefunded is not of type Decimal Number
+2,a bc@gmail.com,40,400,primary key validation fail
+2,xbc@gmail.com,4220,4900.98967,primary key validation fail
